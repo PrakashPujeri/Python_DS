@@ -31,5 +31,5 @@ print(times)
 
 plt.plot(numtimes,times,label=" bubblesort")
 plt.grid()
-plt.legend()
+plt.legend() 
 plt.show()
