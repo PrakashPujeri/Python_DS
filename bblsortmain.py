@@ -28,7 +28,8 @@ for i in range(1,8):
     print("time taken for bubblesorting for",n,"elemets is",end-start )
 print(numtimes)
 print(times)
-
+plt.xlabel('list length')
+plt.ylabel('time complexity')
 plt.plot(numtimes,times,label=" bubblesort")
 plt.grid()
 plt.legend() 
