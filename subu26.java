@@ -10,7 +10,7 @@ public class subu26 {
         System.out.println("Enter the two num:");
         num1 = reader.nextDouble();
         num2 = reader.nextDouble();
-        System.out.println("\n Enter an operator(+,-,*,/):");
+        System.out.println("\n Enter an operator(+,-              ,*,/):");
         op = reader.next().charAt(0);
         switch (op) {
             case '+':
