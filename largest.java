@@ -12,7 +12,7 @@ public class largest {
         }
         else{
             System.out.println("c is greater");
-            System.out.println("hello world");
+           
         }
     }
 }
