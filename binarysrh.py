@@ -10,7 +10,7 @@ def binarysearch(arr,x):
         else:
             high=mid-1
     return -1
-arr=[5,7,15,25,687,5]
+arr=[5,7,15,25,687,1000]
 x=int(input("enter your search number:"))
 result=binarysearch(arr,x)
 if result!=-1:

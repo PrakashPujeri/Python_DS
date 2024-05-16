@@ -17,3 +17,5 @@ if result!= -1:
     print("element is present in the index:",result)
 else:
     print("element is not present in the index")
+
+    print("hello world")
